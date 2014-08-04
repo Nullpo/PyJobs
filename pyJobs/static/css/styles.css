@@ -1,0 +1,85 @@
+/* <!-- Main --> */
+ 
+.header-text
+{
+	margin-bottom:70px;
+}
+
+.header-text > h2 
+{
+	margin-left: 26%;
+	margin-top: 5%;
+}
+
+.title-text
+{
+	color: blue;
+	margin-bottom:25px;
+}
+
+.back-button
+{
+	margin-left: 48%;
+	margin-top: 22px;
+}
+
+ /* <!-- List Jobs --> */
+
+.search-form
+{
+	margin-bottom: 20px;
+	margin-top:10px;
+}
+
+.pagination
+{
+	margin-left: 506px;
+}
+
+#job-offer-input 
+{
+	max-width:300px;
+	display: inline;
+}
+
+#search-button
+{
+	margin-bottom: 4px;
+}
+
+ /* <!-- Display Job --> */
+ 
+.job-form 
+{
+	width: 40%;
+	margin-left: 24%;
+}
+
+ /* <!-- Display Job --> */
+
+.error-message
+{
+	width: 500px;
+}
+
+.action-buttons
+{
+	margin-left: -255px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.action-buttons > a
+{
+	display:inline;
+}
+
+.btn-volver
+{
+	margin-left: 10px;
+}
+
+.align-center
+{
+   margin-left:21%;
+}

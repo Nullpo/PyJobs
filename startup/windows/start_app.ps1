@@ -1,0 +1,1 @@
+C:\Python34\Scripts\pserve  ../../config/development.ini
