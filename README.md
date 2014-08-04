@@ -20,9 +20,10 @@
    - pyJobs: contains the application itself. 
    - config: contains the configuration files for development and production environments. 
   
-   ============================ SUPPORTED OPERATING SYSTEMS ============================
+   ============================ SUPPORT ============================
    
-   In theory, any operating system that can run python. In practice, it has only been tested on Windows. 
+   In theory, any operating system that can run python is supported. 
+   In practice, it has only been tested on Windows. 
    
   ============================ REQUIREMENTS TO RUN ============================
    
