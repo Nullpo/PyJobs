@@ -2,16 +2,16 @@
 
     A jobs board written in python.
 	
-   ================================== VERSION ===========================================================
+   ============================ VERSION ===========================
 
    Current version is V 0.0.1
 
-   ================================== LICENSE ===========================================================
+   ============================ LICENSE ============================
 
    PyJobs is open source software under the 2-Clause BSD License (also known as "The FreeBSD License"). 
    A copy of this license can be found at the OSI Website: http://opensource.org/licenses/BSD-2-Clause . 
 	
-   ================================== DIRECTORIES =======================================================
+   ============================ DIRECTORIES ============================
 
    This file is in the application's top directory. 
    The folders in the application are: 
@@ -20,11 +20,11 @@
    - pyJobs: contains the application itself. 
    - config: contains the configuration files for development and production environments. 
   
-   ================================== SUPPORTED OPERATING SYSTEMS ========================================
+   ============================ SUPPORTED OPERATING SYSTEMS ============================
    
    In theory, any operating system that can run python. In practice, it has only been tested on Windows. 
    
-   ===================================== PLATTFORM =======================================================
+  ============================ REQUIREMENTS TO RUN ============================
    
    This application uses/requires:
    
@@ -35,7 +35,7 @@
    WTForms (Form handling library).
    SQLite (As a development database).
    
-   ======================================= CURRENT STATUS ================================================
+   ============================ CURRENT STATUS ============================
    
    As of this version, the application is not yet ready for production. The frontend works, but it still has
    a few problems and it's far from being complete. The backends for admins and companies have not been implemented.
