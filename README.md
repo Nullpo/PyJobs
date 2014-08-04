@@ -1,4 +1,4 @@
-                                       ========= PyJobs =========
+                                      PY JOBS
 
     A jobs board written in python.
 	
